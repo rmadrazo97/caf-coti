@@ -21,8 +21,8 @@ REMOVE_INDEXPHP=false
 DB_HOSTNAME='us-cdbr-iron-east-01.cleardb.net'
 DB_USERNAME='ba5491591914eb'
 DB_PASSWORD='a99af473'
-DB_DATABASE='heroku_e9f94a38bff6bc7'
-DB_PORT=3306
+DB_DATABASE=
+DB_PORT=
 
 #mysql://ba5491591914eb:a99af473@us-cdbr-iron-east-01.cleardb.net/heroku_e9f94a38bff6bc7?reconnect=true
 
