@@ -20,3 +20,5 @@ COPY . /var/www/html
 RUN mv /var/www/html/htaccess /var/www/html/.htaccess \
   && chown -R www-data:www-data /var/www/html \
   && a2enmod rewrite
+
+#l
